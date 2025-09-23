@@ -25,4 +25,6 @@ func main() {
 	fmt.Printf("Type of c: %v (value: %v)\n", reflect.TypeOf(c), c)
 	fmt.Printf("Type of python: %v (value: %v)\n", reflect.TypeOf(python), python)
 	fmt.Printf("Type of java: %v (value: %v)\n", reflect.TypeOf(java), java)
+	fmt.Printf("Type of logan: %v (value: %v)\n", reflect.TypeOf(logan), logan)
+	fmt.Printf("Type of hudson: %v (value: %v)\n", reflect.TypeOf(hudson), hudson)
 }
