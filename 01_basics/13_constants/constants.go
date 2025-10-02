@@ -12,6 +12,8 @@ import "fmt"
 
 const Pi = 3.14
 
+var varPi float64 = 3.14
+
 func main() {
 	const World = "世界"
 	fmt.Println("Hello", World)
@@ -19,4 +21,11 @@ func main() {
 
 	const Truth = true
 	fmt.Println("Go rules?", Truth)
+
+	// this will cause an error since Pi is defined as a constant
+	// Pi = 3.1
+
+	// this is fine since varPi is defined as a variable
+	varPi = 3.1
+	fmt.Println("varPi", varPi)
 }
