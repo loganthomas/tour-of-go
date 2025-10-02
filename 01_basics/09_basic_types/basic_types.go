@@ -1,4 +1,5 @@
 /*
+Basic Types
 Go's basic types are
 
 bool

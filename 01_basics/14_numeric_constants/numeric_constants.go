@@ -1,4 +1,6 @@
 /*
+Numeric Constants
+
 Numeric constants are high-precision values.
 
 An untyped constant takes the type needed by its context.

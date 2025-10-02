@@ -1,4 +1,6 @@
 /*
+For
+
 Go has only one looping construct, the for loop.
 
 The basic for loop has three components separated by semicolons:

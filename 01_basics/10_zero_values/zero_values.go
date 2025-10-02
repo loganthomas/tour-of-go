@@ -1,4 +1,6 @@
 /*
+Zero Values
+
 Variables declared without an explicit initial value are given their zero value.
 
 The zero value is:
